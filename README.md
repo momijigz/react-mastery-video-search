@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An app developed in React.js to seach videos from the Youtube API.
 
 ## Available Scripts
 
